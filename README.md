@@ -2,7 +2,7 @@
 
 A modern, responsive, and interactive personal portfolio website built with HTML, CSS, and JavaScript.
 
-## ✨ Features
+## ✨ Features......
 
 - **Responsive Design** - Works perfectly on all devices (mobile, tablet, desktop)
 - **Modern UI/UX** - Clean, professional design with smooth animations
